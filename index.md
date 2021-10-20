@@ -1,5 +1,7 @@
 
-## Welcome to my progress journal
+# Yunus Emre's Progress Journal
+
+##Welcome to my journal
 
 *I will share my work on data analysis with R in this page.*
 
