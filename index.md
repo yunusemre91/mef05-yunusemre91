@@ -1,3 +1,4 @@
+
 ## Welcome to my progress journal
 
 *I will share my work on data analysis with R in this page.*
