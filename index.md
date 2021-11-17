@@ -5,7 +5,7 @@ Welcome to my journal
 
 *I will share my work on data analysis with R in this page.*
 
-To see the assignments page of **Division Bell**, the group I am a member of, click ***[here.](https://pjournal.github.io/mef05g-division-bell)
+To see the assignments page of **Division Bell**, the group I am a member of, click ***[here.](https://pjournal.github.io/mef05g-division-bell)***
 
 ### Assignments:
 
