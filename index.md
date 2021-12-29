@@ -13,7 +13,7 @@ To see the assignments page of **Division Bell**, the group I am a member of, cl
 
 ### Week 3:
 EDA on Netflix Content Data. This assignment was given as an in class bonus assignment. However I've done this EDA at the end of the semester.
-To see the html file please click ***[here](https://github.com/pjournal/mef05-yunusemre91/blob/98024233ffb4db82f6102c90a2ba3c82d2eab250/Netflix-EDA.html)***.
+To see the html file please click ***[here](https://pjournal.github.io/mef05-yunusemre91/Netflix-EDA.html)***.
 
 ### Week 5:
 *An analysis report on Izmir's Fish Market prices.*
