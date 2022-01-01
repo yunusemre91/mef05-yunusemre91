@@ -12,7 +12,7 @@ To see the assignments page of **Division Bell**, the group I am a member of, cl
 ### Week 1:
 
 ### Week 3:
-EDA on Netflix Content Data. This assignment was given as an in class bonus assignment. However I've done this EDA at the end of the semester.
+EDA on Netflix Content Data. 
 To see the html file please click ***[here](https://pjournal.github.io/mef05-yunusemre91/Netflix-EDA.html)***.
 
 ### Week 5:
